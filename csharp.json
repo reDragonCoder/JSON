@@ -1,0 +1,18 @@
+{    
+    "Print to console": {
+        "prefix": "cw",
+        "body": [
+            "Console.WriteLine(\"${1}\");",
+        ],
+        "description": "Shortcut for Console.WriteLine"
+    },
+
+    "Print an end of line": {
+        "prefix": "cn",
+        "body": [
+            "Console.WriteLine(${1});",
+        ],
+        "description": "Shortcut for Console.WriteLine() to leave a space"
+    }
+
+}
