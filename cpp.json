@@ -1,0 +1,15 @@
+{
+    "C++ Main": {
+        "prefix": "cc",
+        "body": [
+            "#include <iostream>",
+            "using namespace std;",
+            "",
+            "int main() {",
+            "    $1",  
+            "    return 0;",
+            "}"
+        ],
+        "description": "C++ Structure"
+    }
+}
