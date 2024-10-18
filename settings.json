@@ -1,6 +1,0 @@
-{
-    // This setting hides .exe files in the explorer
-    "files.exclude": {
-        "**/*.exe": true
-    }
-}
